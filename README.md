@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @LondonJackTheRipper
+- 👀 I’m interested in coding and reading books.
+- 🌱 I’m currently studying in a senior highschool in the central Vietnam (an asian country).

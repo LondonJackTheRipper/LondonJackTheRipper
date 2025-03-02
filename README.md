@@ -1,4 +1,4 @@
 - Hi, I’m @LondonJackTheRipper
-- My native name is 'Ngô Trần Quang Minh' and my english name is 'John Watson'.
+- My native name is 'Ngô Trần Quang Minh' and my english name is Ben Watson.
 - I’m interested in coding and reading books.
 - I’m currently studying in a senior highschool in the central Vietnam (an asian country).
